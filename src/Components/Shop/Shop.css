@@ -1,0 +1,26 @@
+.item-container {
+    display: flex;
+}
+
+.product-container {
+    width: 70%;
+    margin-left: 20px;
+    margin-right: 5px;
+    border-right: 1px solid lightgray;
+}
+
+.cart-container {
+  
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 11px;
+}
+
+.cart-btn {
+    background-color: rgb(228, 177, 47);
+    width: 150px;
+    height: 30px;
+    border: 1px solid #a2a1a1;
+    border-radius: 5px;
+    cursor: pointer;
+}
